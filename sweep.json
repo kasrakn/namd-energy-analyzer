@@ -1,0 +1,6 @@
+{
+  "mode": "product",
+  "temperatures": [300, 350, 400],
+  "minimize": [1000],
+  "md": [10000, 50000]
+}
